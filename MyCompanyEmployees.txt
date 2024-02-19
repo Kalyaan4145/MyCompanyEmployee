@@ -1,19 +1,26 @@
 Create an app in Java and develop the following REST APIs
 
-1. API endpoint to store employee details(Validate the data and throw the errors on invalid data)
+1. API end point to store employee details(Validate the data and throw the errors on invalid data)
+One Service API for store the employee details. 
+HTTP METHOD : POST
+END POINT URL : http://localhost:8082/api/employee/addEmployee
 
+2. API end point to return employees tax deduction for the current financial year(April to March). 
+API should return employee code, first name, last name, yearly salary, tax amount, cess amount
+Second Service API for to fetch the employee details
+HTTP METHOD : GET
+END POINT URL : URL : http://localhost:8082/api/employee/salary/tax-deduction
+
+
+Entity Class variables :
 Fields(All fields are mandatory):
-
 Employee ID
-
 FirstName
-
 LastName
-
 Email
-
 PhoneNumber(May have multiple phone numbers)
-
 DOJ
-
 Salary(per month)
+YearlySalary
+TaxAmount
+CessAmount
