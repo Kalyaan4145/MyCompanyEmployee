@@ -1,0 +1,36 @@
+{
+  "firstName": "kalyan1",
+  "lastName": "manem1",
+  "doj": "2017-01-01 20:00",
+  "email": "kalyan1@test.com",
+   "phoneNumbers": ["123-456-7890", "987-654-3210"],
+   "salary": 62500
+}
+
+{
+  "firstName": "kalyan2",
+  "lastName": "manem2",
+  "doj": "2017-01-01 20:00",
+  "email": "kalyan2@test.com",
+   "phoneNumbers": ["123-456-7890", "987-654-3210"],
+   "salary": 20833
+}
+
+{
+  "firstName": "kalyan3",
+  "lastName": "manem3",
+  "doj": "2017-04-01 20:00",
+  "email": "kalyan3@test.com",
+   "phoneNumbers": ["123-456-7890", "987-654-3210"],
+   "startDate": "2017-01-01 20:00",
+   "salary": 41600
+}
+
+{
+  "firstName": "kalyan4",
+  "lastName": "manem4",
+  "doj": "2017-05-16 20:00",
+  "email": "kalyan3@test.com",
+   "phoneNumbers": ["123-456-7890", "987-654-3210"],
+   "salary": 81600
+}
